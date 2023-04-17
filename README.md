@@ -1,4 +1,4 @@
-### Hi there 👋, This is Benjamin Qian
+### Hi there 👋 This is Benjamin Qian
 
 <!--
 **Fr1eZZZ/Fr1eZZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
